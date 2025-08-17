@@ -1,2 +1,1 @@
-# bootcamp-website-html-personal
-This is a repo for hosted plain HTML personal site exercise for the London Brewery Course
+This is a the repo for hosted plain HTML personal site exercise for the London Brewey course
